@@ -56,8 +56,43 @@ The project follows a modular and organized structure to enhance readability, ma
 The TO-DOIT App is deployed and accessible online. You can use the following link to access the application: [To-Do-List](https://prem-kumar412.github.io/To-Do-List/)
 
 
-[Task 1: TO DO LIST](https://github.com/prem-kumar412/CBTC_Web-Development_Project/tree/main/Weather-App)
+[Task 2: Weather-App](https://github.com/prem-kumar412/CBTC_Web-Development_Project/tree/main/Weather-App)
 ================================
 
 Description
 -----------
+Welcome to the Weather App! This project provides real-time weather information based on user input. The app is built using HTML, CSS, and JavaScript and leverages a weather API to fetch and display weather data.
+
+## Features
+- Real-time Weather Data: Get current weather conditions, including temperature, humidity, wind speed, and more.
+- Search Functionality: Enter a city name to retrieve the latest weather information for that location.
+- Dynamic UI: The interface updates dynamically based on the weather conditions, providing a seamless user experience.
+
+  ## Technologies Used
+ -  **HTML**: For the basic structure of the app.
+- **CSS**: For styling and layout.
+- **JavaScript**: For fetching data from the API and updating the UI.
+
+  ### Installation
+
+1. **Clone the Repository:**
+
+   ```bash
+   https://github.com/prem-kumar412/CBTC_Web-Development_Project/tree/main/Weather-App
+   ```
+
+2. **Navigate to the Project Directory:**
+
+   ```bash
+   cd Weather-App
+   ```
+
+3. **Open `index.html` in a Browser:**
+  Open the `index.html` file in your preferred web browser.
+
+## Future Enhancements
+- **Geolocation:** Automatically detect and display weather for the user's current location.
+- **Weather Forecast:** Extend the app to show a 5-day weather forecast.
+  
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
