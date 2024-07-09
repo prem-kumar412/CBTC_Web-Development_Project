@@ -51,6 +51,13 @@ The project follows a modular and organized structure to enhance readability, ma
 - **CSS (`style.css`):** Styles to define the appearance of the web page.
 - **JavaScript (`script.js`):** Logic for handling user interactions, managing tasks, and implementing theme switching.
 
-##  Deployment
+##  Deployment     
 
 The TO-DOIT App is deployed and accessible online. You can use the following link to access the application: [To-Do-List](https://prem-kumar412.github.io/To-Do-List/)
+
+
+[Task 1: TO DO LIST](https://github.com/prem-kumar412/CBTC_Web-Development_Project/tree/main/Weather-App)
+================================
+
+Description
+-----------
