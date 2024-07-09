@@ -29,7 +29,7 @@ Make sure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   https://github.com/prem-kumar412/To-Do-List.git
+   https://github.com/prem-kumar412/CBTC_Web-Development_Project/tree/main/To-do-list
    ```
 
 2. **Navigate to the Project Directory:**
