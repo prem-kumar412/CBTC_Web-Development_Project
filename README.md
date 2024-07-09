@@ -93,6 +93,3 @@ Welcome to the Weather App! This project provides real-time weather information 
 ## Future Enhancements
 - **Geolocation:** Automatically detect and display weather for the user's current location.
 - **Weather Forecast:** Extend the app to show a 5-day weather forecast.
-  
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
