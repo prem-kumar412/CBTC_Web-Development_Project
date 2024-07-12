@@ -2,7 +2,7 @@ html {
   height: 100%;
 }
 body {
-  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+  background-image: linear-gradient(to top, #436363 0%, #ffc107 100%);
   /* background-repeat: no-repeat; */
   background-size: cover;
 }
@@ -10,7 +10,9 @@ p {
   font-family: "Quicksand", sans-serif;
 }
 .card-body {
-  box-shadow: 5px 2px 20px rgb(46, 46, 59);
+     box-shadow: 5px 2px 20px #86b7fead;
+    background-color: #0dcaf042;
+
 }
 
 form.searchBox {
